@@ -1,0 +1,23 @@
+
+.task {
+    background-color: #527141;
+    color: #d3abb3;
+    padding: 10px;
+    margin: 5px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .completed {
+    background-color: #bdc3c7;
+  }
+  
+  button {
+    /* background-color: #e74c3c; */
+    color: #d3abb3;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
